@@ -1,7 +1,7 @@
 pandas
 matplotlib
 transformers
-torch
+# torch # use pytorch documentation https://pytorch.org/get-started/locally/
 tensorflow
 petl
 scikit-learn
